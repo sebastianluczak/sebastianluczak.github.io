@@ -14,8 +14,22 @@ header:
     caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
+<p class="notice--success">
+    You can <a href="https://calendly.com/brodatydev/15min" target="_blank">
+        <button class="btn btn--success">
+            <i class="fa fa-calendar" aria-hidden="true"></i> Schedule a meeting
+        </button>
+    </a>, and get 15 minutes of my time free of charge. Let's talk and build relation.
+</p>
+
 <p class="notice--primary">
-    For business inquires please email: sebastian@brodaty.dev
+    For business inquires please email: 
+    <a href="mailto:sebastian@brodaty.dev">
+        <button class="btn btn--primary">
+            <i class="fa fa-envelope" aria-hidden="true"></i> sebastian@brodaty.dev
+        </button>
+    </a>
+    
 </p>
     Scope of services:
     
