@@ -280,6 +280,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-include-cache
+  jekyll-seo-tag (~> 2.7, >= 2.7.1)
 
 BUNDLED WITH
    2.3.3
