@@ -1,6 +1,7 @@
 ---
 title: "Stay tuned..."
 header: "Stay tuned..."
+comments: true
 categories:
 - Introduction
 tags:

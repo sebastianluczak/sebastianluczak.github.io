@@ -45,6 +45,11 @@ include: ["_pages"]
 atom_feed:
   hide: true
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "brodaty-dev"
+
 defaults:
   # _posts
   - scope:
