@@ -25,9 +25,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://brodaty.dev" # the base hostname & protocol for your site, e.g. http://example.com
 
+og_image: "/assets/images/brodaty-badge.png"
 logo: "/assets/images/logo-poc-inv.png"
 teaser: "/assets/images/default-teaser.jpg"
-breadcrumbs: true
+breadcrumbs: false
 search: true
 
 twitter_username: jekyllrb
@@ -68,11 +69,14 @@ author:
   name             : "Sebastian Łuczak"
   avatar           : "/assets/images/profile.png"
   bio              : "Senior PHP Developer / Team Lead / Head of Delivery @thecodest.co"
-  location         : "https://thecodest.co"
+  location         : "Cracow, Poland | UnicornLand"
   links:
-    - label: "https://brodaty.dev"
+    - label: "#brodatydev"
       icon: "fas fa-fw fa-link"
       url: "https://brodaty.dev"
+    - label: "TheCodest"
+      icon: "fa fa-fw fa-laptop-house"
+      url: "https://thecodest.co"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sebastianluczak"

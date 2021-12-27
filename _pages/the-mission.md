@@ -18,12 +18,22 @@ Through series of articles propagate values:
 
 ## Stage 1
 
-Tell the truth about software development.
+<p class="notice notice--primary">
+    Tell the truth about software development through series of articles
+</p>
+
+<p class="notice notice--primary">
+    Build trust
+</p>
 
 ## Stage 2
 
-Engage community to share their stories.
+<p class="notice notice--primary">
+    Engage community to share their stories.
+</p>
 
 ## Stage 3
 
-Create community driven online help centre.
+<p class="notice notice--primary">
+    Create community driven online help centre.
+</p>
