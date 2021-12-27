@@ -12,6 +12,9 @@ header:
     overlay_image: /assets/images/unsplash-gallery-image-4.jpg
     overlay_filter: 0.7
     caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+    actions:
+    - label: "Schedule a meeting"
+      url: "https://calendly.com/brodatydev/15min"
 ---
 
 <p class="notice--success">
