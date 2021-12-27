@@ -11,6 +11,11 @@ header:
     caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
+Through series of articles propagate values:
+- openness in communication
+- self-awareness
+- self-motivation
+
 ## Stage 1
 
 Tell the truth about software development.
