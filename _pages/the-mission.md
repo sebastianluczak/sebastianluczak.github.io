@@ -1,14 +1,20 @@
 ---
 title: "The Mission"
 excerpt: "The Mission of #brodatydev."
-sitemap: false
+sitemap: true
 layout: single
 permalink: /the-mission/
 classes: wide
 author_profile: true
+
+excerpt: "Communicate, Be Aware, Be Ready To Change"
 header:
-    image: https://images.squarespace-cdn.com/content/v1/5d48e363b59b1600014da91e/1571370187975-PATEKPJIDHAW4CM7WPL8/Website+Header-Our+Mission.png?format=2500w
-    caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_image: /assets/images/unsplash-gallery-image-3.jpg
+  overlay_filter: 0.5
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://brodaty.dev/contact/"
 ---
 
 Through series of articles propagate values:

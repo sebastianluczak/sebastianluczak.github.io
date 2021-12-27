@@ -2,5 +2,9 @@
 main:
   - title: "The Mission"
     url: /the-mission/
+  - title: "Posts"
+    url: /posts/
+  - title: "Contact"
+    url: /contact/
   - title: "PHP-roguelike RPG"
     url: https://brodaty.dev/php-roguelike
