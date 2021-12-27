@@ -1,0 +1,6 @@
+# main links links
+main:
+  - title: "The Mission"
+    url: /the-mission/
+  - title: "PHP-roguelike RPG"
+    url: https://brodaty.dev/php-roguelike
