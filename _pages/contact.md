@@ -7,12 +7,24 @@ permalink: /contact/
 classes: wide
 author_profile: true
 
-excerpt: "Communicate, Be Aware, Be Ready To Change"
+excerpt: "I can help you, maybe?"
 header:
-overlay_image: /assets/images/unsplash-gallery-image-4.jpg
-overlay_filter: 0.7
-caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+    overlay_image: /assets/images/unsplash-gallery-image-4.jpg
+    overlay_filter: 0.7
+    caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
+
+<p class="notice--primary">
+    For business inquires please email: sebastian@brodaty.dev
+</p>
+    Scope of services:
+    
+    * growth and scaling of Software House and Custom Sofware companies
+    * mentoring and leading development teams
+    * help in lead generation and direct impact in sales (measurable by conversion rate)
+    * ongoing development of PHP projects
+    
+
 
 My name is Sebastian and I'm Senior PHP Developer with huge interest in sales, marketing and lead generation.
 Also I lead IT teams being all-in-one scrum master, project manager, team mentor and developer.
