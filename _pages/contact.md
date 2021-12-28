@@ -18,21 +18,21 @@ header:
 ---
 
 <p class="notice--success">
-    You can <a href="https://calendly.com/brodatydev/15min" target="_blank">
-        <button class="btn btn--success">
+    You can get 15 minutes of my time free of charge. Let's talk and build relation.
+    <a href="https://calendly.com/brodatydev/15min" target="_blank">
+        <button class="btn btn--success align-right">
             <i class="fa fa-calendar" aria-hidden="true"></i> Schedule a meeting
         </button>
-    </a>, and get 15 minutes of my time free of charge. Let's talk and build relation.
+    </a>
 </p>
 
 <p class="notice--primary">
     For business inquires please email: 
     <a href="mailto:sebastian@brodaty.dev">
-        <button class="btn btn--primary">
+        <button class="btn btn--primary align-right">
             <i class="fa fa-envelope" aria-hidden="true"></i> sebastian@brodaty.dev
         </button>
     </a>
-    
 </p>
     Scope of services:
     
@@ -50,8 +50,8 @@ Also I lead IT teams being all-in-one scrum master, project manager, team mentor
 - 💼 We're hiring, take a look at [Our jobs pool](https://thecodest.co/careers)
 - 🌱 I’m currently learning Node.JS and Python
 - 👯 I’m looking to collaborate on external projects with tight deadlines and/or complicated architecture and/or tech debt
-- 💬 Ask me about my free slots in calendar, which are almost none :)
-- 📫 How to reach me: just message me on my [LinkedIn](https://www.linkedin.com/in/sebastianmluczak/)
+- 💬 [Schedule a meeting](https://calendly.com/brodatydev/15min) if you want to talk business or cooperation
+- 📫 How to reach me: just message me on my [LinkedIn](https://www.linkedin.com/in/sebastianmluczak/) or use scheduling tool above
 - ⚡ Fun fact: I can solve Rubic's cube in under 60 seconds
 
 ### What I'm passionate about:

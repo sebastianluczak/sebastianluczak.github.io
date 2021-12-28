@@ -30,6 +30,7 @@ logo: "/assets/images/logo-poc-inv.png"
 teaser: "/assets/images/default-teaser.jpg"
 breadcrumbs: false
 search: true
+words_per_minute: 120
 
 twitter_username: jekyllrb
 github_username:  sebastianluczak
@@ -76,6 +77,8 @@ author:
   avatar           : "/assets/images/profile.png"
   bio              : "Senior PHP Developer / Team Lead / Head of Delivery @thecodest.co"
   location         : "Cracow, Poland | UnicornLand"
+  stackoverflow    : 616376
+  steam            : partypinkiepie
   links:
     - label: "#brodatydev"
       icon: "fas fa-fw fa-link"
